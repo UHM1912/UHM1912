@@ -1,6 +1,15 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=UTKARSH%20MISRA&width=700&height=100" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=45&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=UTKARSH+MISRA" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:18C8F9,100:1E88E5&text=UTKARSH%20MISRA&fontColor=ffffff&fontSize=60&animation=twinkling&section=header"/>
+</p>
+
+
+
+
+
 
 <!-- Typing Animation Below -->
 <p align="center">
