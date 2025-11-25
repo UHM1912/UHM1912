@@ -60,17 +60,17 @@ I love solving problems using data, experimenting with models, and building scal
 
   <!-- CARD 1 -->
   <a href="https://github.com/UHM1912/Green-AI-Comparometer-A-web-based-tool-for-tracking-Carbon-Emissions-">
-    <img src="https://github.com/UHM1912/Green-AI-Comparometer-A-web-based-tool-for-tracking-Carbon-Emissions-/blob/main/covergreen.png.png" width="300">
+    <img src="https://github.com/UHM1912/Green-AI-Comparometer-A-web-based-tool-for-tracking-Carbon-Emissions-/blob/main/covergreen.png.png" width="100">
   </a>
 
   <!-- CARD 2 -->
   <a href="https://github.com/UHM1912/Deep-Learning-and-Neural-Network">
-    <img src="https://github.com/UHM1912/Deep-Learning-and-Neural-Network/blob/main/cover.png" width="300">
+    <img src="https://github.com/UHM1912/Deep-Learning-and-Neural-Network/blob/main/coverdeep.png" width="100">
   </a>
 
   <!-- CARD 3 -->
   <a href="https://github.com/UHM1912/Graph-Analytics-projects">
-    <img src="https://github.com/UHM1912/Graph-Analytics-projects/blob/main/cover.png" width="300">
+    <img src="https://github.com/UHM1912/Graph-Analytics-projects/blob/main/covergraph.png" width="100">
   </a>
 
 </p>
