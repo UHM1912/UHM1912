@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=UTKARSH%20MISRA&width=900&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=UTKARSH%20MISRA&width=700&height=100" />
 </p>
 
 <!-- Typing Animation Below -->
@@ -83,11 +83,11 @@ I love solving problems using data, experimenting with models, and building scal
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=UHM1912&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=UHM1912&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/Total_Contributions-65-1E90FF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Current_Streak-2-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Longest_Streak-3-blue?style=for-the-badge" />
 </p>
 
----
 
 # 🐍 Contribution Snake
 
