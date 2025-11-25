@@ -37,31 +37,42 @@ I love solving problems using data, experimenting with models, and building scal
 
 ---
 
-# 🧠 Tech Stack & Tools
+## 🧠 Tech Stack & Tools  
 
-### **Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,cpp&theme=light" />
+### **💻 Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp&theme=light" height="45" />
 </p>
 
-### **Machine Learning / Deep Learning**
+---
+
+### **🤖 Machine Learning / Deep Learning**
 - CNN, ANN  
 - Random Forest, XGBoost, GBM  
 - Regression Models  
 - Feature Engineering  
 - Model Evaluation  
 
-### **Data Analysis & Visualization**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mongodb,mysql&theme=light" />
-</p>
-
-### **Cloud & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,powerbi&theme=light" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=light" height="45" />
 </p>
 
 ---
+
+### **📊 Data Analysis & Visualization**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mongodb,mysql&theme=light" height="45" />
+</p>
+
+---
+
+### **☁️ Cloud & Dev Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,pycharm&theme=light" height="45" />
+</p>
+
+---
+
 
 # 🚀 Featured Projects
 
@@ -123,3 +134,5 @@ I love solving problems using data, experimenting with models, and building scal
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1E88E5,100:18C8F9"/>
+
