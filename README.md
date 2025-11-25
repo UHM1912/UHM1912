@@ -145,5 +145,5 @@ I love solving problems using data, experimenting with models, and building scal
 </p>
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1E88E5,100:18C8F9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:1E88E5,200:18C8F9"/>
 
