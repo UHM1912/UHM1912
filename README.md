@@ -122,12 +122,7 @@ I love solving problems using data, experimenting with models, and building scal
 </p>
 
 ---
-## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=UHM1912&theme=algolia&no-frame=true&margin-w=15&row=2&column=3)
-
-
----
 
 ## ✍️ Random Dev Quote
 <p align="center">
