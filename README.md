@@ -95,7 +95,7 @@ I love solving problems using data, experimenting with models, and building scal
 
    <!-- CARD 4 -->
   <a href="https://github.com/UHM1912/ManualS-AI-PRO-GUIDE-">
-    <img src="https://github.com/UHM1912/ManualS-AI-PRO-GUIDE-/blob/main/Manualpro.png" width="100">
+    <img src="https://github.com/UHM1912/ManualS-AI-PRO-GUIDE/blob/main/Manualpro.png" width="100">
   </a>
 
 </p>
