@@ -95,7 +95,7 @@ I love solving problems using data, experimenting with models, and building scal
 
    <!-- CARD 4 -->
 <a href="https://github.com/UHM1912/manual-chatbot">
-  <img src="https://github.com/UHM1912/manual-chatbot/blob/main/Manualpro.png" width="100">
+  <img src="https://github.com/UHM1912/manual-chatbot/blob/main/Manualpro.png" width="200">
 </a>
 
 
@@ -124,8 +124,9 @@ I love solving problems using data, experimenting with models, and building scal
 ---
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UHM1912&theme=tokyonight&no-frame=true&row=1&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UHM1912&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4" />
 </p>
+
 ---
 
 ## ✍️ Random Dev Quote
