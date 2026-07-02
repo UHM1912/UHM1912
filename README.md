@@ -166,17 +166,6 @@ Research on reducing AI energy consumption while preserving model performance.
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UHM1912&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UHM1912&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
----
 
 ## Contribution Activity
 
